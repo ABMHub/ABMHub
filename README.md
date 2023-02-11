@@ -11,7 +11,7 @@
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ABMHub&theme=merko)](https://github.com/anuraghazra/github-readme-stats)
 
 <!-- Github Stats. Tema: Merko. Repos excluidos: JoaoKombat (muitas linhas de codigo asm). Joao Atacadao (repositorio repetido em relacao ao Joao Atacadao Rebirth), Whitefly-Detection (outputs gigantescas em ipynb) -->
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ABMHub&theme=merko&exclude_repo=JoaoKombat,JoaoAtacadao,Whitefly-Detection)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ABMHub&theme=merko&exclude_repo=JoaoKombat,JoaoAtacadao,Whitefly-Detection,NLP,FSI,PLN---2022)](https://github.com/anuraghazra/github-readme-stats)
 
 <!--
 **ABMHub/ABMHub** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

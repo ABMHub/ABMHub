@@ -1,7 +1,9 @@
+Undergraduate Student at UnB (Universidade de Brasília) - Brazil
+
 ### Bom dia!
 
-- ✨ Meu nome é Lucas, sou estudante de Ciência da Computação na UnB (universidade de Brasília). Estou atualmente no sexto semestre do curso.
-- 🎓 Me formarei em Junho de 2023.
+- ✨ Meu nome é Lucas, sou estudante de Ciência da Computação na UnB (universidade de Brasília). Estou atualmente no nono semestre do curso.
+- 🎓 Me formarei em Julho de 2023.
 - 🌱 Estou, atualmente, focando meu aprendizado em Machine Learning (enquanto a universidade permitir).
 - 💻 Minha primeira linguagem de programação foi C, minha linguagem favorita é Python, e eu tenho uma estranha quantidade de experiência em Assembly Risc-V.
 

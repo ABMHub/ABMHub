@@ -1,19 +1,13 @@
-Undergraduate Student at UnB (Universidade de Brasília) - Brazil
+<!-- - My name is Lucas, I'm an undergraduate student at UnB (Universidade de Brasília) - Brazil. I'm in my last period of college. -->
+<!-- - I'm graduating in July this year. -->
+<!-- -  -->
 
-### Bom dia!
+- Meu nome é Lucas, sou estudante de Ciência da Computação na UnB (universidade de Brasília). Estou atualmente no nono semestre do curso.
+- Me formarei em Julho de 2023.
+- Estou me especializando em Machine Learning (ML).
+- Minha principal linguagem de programação é Python, pois é a linguagem mais popular para ML. Porém tenho bastante experiência em C/C++.
 
-- ✨ Meu nome é Lucas, sou estudante de Ciência da Computação na UnB (universidade de Brasília). Estou atualmente no nono semestre do curso.
-- 🎓 Me formarei em Julho de 2023.
-- 🌱 Estou, atualmente, focando meu aprendizado em Machine Learning (enquanto a universidade permitir).
-- 💻 Minha primeira linguagem de programação foi C, minha linguagem favorita é Python, e eu tenho uma estranha quantidade de experiência em Assembly Risc-V.
 
-### Estatísticas
-
-<!-- Github Stats. Tema: Merko -->
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ABMHub&theme=merko)](https://github.com/anuraghazra/github-readme-stats)
-
-<!-- Github Stats. Tema: Merko. Repos excluidos: JoaoKombat (muitas linhas de codigo asm). Joao Atacadao (repositorio repetido em relacao ao Joao Atacadao Rebirth), Whitefly-Detection (outputs gigantescas em ipynb) -->
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ABMHub&theme=merko&exclude_repo=JoaoKombat,JoaoAtacadao,Whitefly-Detection,NLP,FSI,PLN---2022)](https://github.com/anuraghazra/github-readme-stats)
 
 <!--
 **ABMHub/ABMHub** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

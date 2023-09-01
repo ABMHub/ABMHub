@@ -1,11 +1,7 @@
-<!-- - My name is Lucas, I'm an undergraduate student at UnB (Universidade de Brasília) - Brazil. I'm in my last period of college. -->
-<!-- - I'm graduating in July this year. -->
-<!-- -  -->
+- My name is Lucas, I'm an master's student at UnB (Universidade de Brasília) - Brazil
+- I'm currently researching the use of deep neural networks in lipreading and speech recognition.
 
-- Meu nome é Lucas, sou estudante de Ciência da Computação na UnB (universidade de Brasília). Estou atualmente no nono semestre do curso.
-- Me formarei em Julho de 2023.
-- Estou me especializando em Machine Learning (ML).
-- Minha principal linguagem de programação é Python, pois é a linguagem mais popular para ML. Porém tenho bastante experiência em C/C++.
+<!-- - Meu nome é Lucas, sou estudante de mestrado em Ciência da Computação na UnB (Universidade de Brasília), na área de Inteligência Artificial. -->
 
 
 

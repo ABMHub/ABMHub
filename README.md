@@ -1,5 +1,6 @@
 - My name is Lucas, I'm an master's student at UnB (Universidade de Brasília) - Brazil
 - I'm currently researching the use of deep neural networks in lipreading and speech recognition.
+- I'm also interested in quantum computing
 
 <!-- - Meu nome é Lucas, sou estudante de mestrado em Ciência da Computação na UnB (Universidade de Brasília), na área de Inteligência Artificial. -->
 
